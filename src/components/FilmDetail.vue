@@ -4,6 +4,9 @@
       <ul>
           <li>Title: {{film.title}}</li>
           <li>Director: {{film.director}}</li>
+          <li>Release Date: {{film.release_date}}</li>
+          <li>RottenTomato Score: {{film.rt_score}}</li>
+          <li>Description: {{film.description}}</li>
       </ul>
 
   </div>
